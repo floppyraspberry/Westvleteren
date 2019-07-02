@@ -1,0 +1,11 @@
+C:\Users\remco\source\repos\Westvleteren\bin\Debug\netcoreapp2.2\Westvleteren.deps.json
+C:\Users\remco\source\repos\Westvleteren\bin\Debug\netcoreapp2.2\Westvleteren.runtimeconfig.json
+C:\Users\remco\source\repos\Westvleteren\bin\Debug\netcoreapp2.2\Westvleteren.runtimeconfig.dev.json
+C:\Users\remco\source\repos\Westvleteren\bin\Debug\netcoreapp2.2\Westvleteren.dll
+C:\Users\remco\source\repos\Westvleteren\obj\Debug\netcoreapp2.2\Westvleteren.csprojAssemblyReference.cache
+C:\Users\remco\source\repos\Westvleteren\obj\Debug\netcoreapp2.2\Westvleteren.csproj.CoreCompileInputs.cache
+C:\Users\remco\source\repos\Westvleteren\obj\Debug\netcoreapp2.2\Westvleteren.AssemblyInfoInputs.cache
+C:\Users\remco\source\repos\Westvleteren\obj\Debug\netcoreapp2.2\Westvleteren.AssemblyInfo.cs
+C:\Users\remco\source\repos\Westvleteren\bin\Debug\netcoreapp2.2\Westvleteren.pdb
+C:\Users\remco\source\repos\Westvleteren\obj\Debug\netcoreapp2.2\Westvleteren.dll
+C:\Users\remco\source\repos\Westvleteren\obj\Debug\netcoreapp2.2\Westvleteren.pdb
